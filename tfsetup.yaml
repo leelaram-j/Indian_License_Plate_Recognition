@@ -1,0 +1,29 @@
+name: tfsetup
+channels:
+  - defaults
+dependencies:
+  - matplotlib-base
+  - numpy-base
+  - openssl
+  - scikit-image
+  - matplotlib
+  - pandas
+  - scikit-learn
+  - tensorboard
+  - tensorboard-plugin-wit
+  - tensorflow-datasets
+  - tensorflow-estimator
+  - tensorflow-hub
+  - tensorflow-metadata
+  - tensorflow
+  - pip
+  - pip:
+    - jupyter
+    - jupyter-client
+    - jupyter-console
+    - jupyter-core
+    - opencv-python
+    - jupyter-client
+    - tf-estimator-nightly
+    - opencv-python
+    - tensorflow-object-detection-api

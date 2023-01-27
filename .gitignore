@@ -1,0 +1,14 @@
+*.jpeg
+*.xml
+output
+*/output/
+images
+.ipynb_checkpoints
+.ipynb_checkpoints/*
+*.h5
+*.jpg
+*.png
+*/models/checkpoint/*
+data/license_recognition/background.h5
+data/license_recognition/ilp.h5
+*/__pycache__/*
